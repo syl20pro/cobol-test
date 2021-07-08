@@ -1,0 +1,7 @@
+* Test du langage de programmation cobol pour le fun *
+
+IDENTIFICATION DIVISION.
+PROGRAM-ID. hello-world.
+PROCEDURE DIVISION.
+DISPLAY "Hello world".
+STOP RUN.
